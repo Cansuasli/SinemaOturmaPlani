@@ -1,0 +1,30 @@
+C:\Users\Hazar\Dropbox\Visual Odev\Sinema_OturmaPlani\Sinema_OturmaPlani\bin\Debug\Sinema_OturmaPlani.exe.config
+C:\Users\Hazar\Dropbox\Visual Odev\Sinema_OturmaPlani\Sinema_OturmaPlani\bin\Debug\Sinema_OturmaPlani.exe
+C:\Users\Hazar\Dropbox\Visual Odev\Sinema_OturmaPlani\Sinema_OturmaPlani\bin\Debug\Sinema_OturmaPlani.pdb
+C:\Users\Hazar\Dropbox\Visual Odev\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.csprojResolveAssemblyReference.cache
+C:\Users\Hazar\Dropbox\Visual Odev\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.Form1.resources
+C:\Users\Hazar\Dropbox\Visual Odev\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.Properties.Resources.resources
+C:\Users\Hazar\Dropbox\Visual Odev\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.csproj.GenerateResource.Cache
+C:\Users\Hazar\Dropbox\Visual Odev\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.exe
+C:\Users\Hazar\Dropbox\Visual Odev\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.pdb
+C:\Users\Hazar\Dropbox\Visual Odev\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.Rezervasyon_Ekrani.resources
+C:\Users\cspr\Desktop\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\bin\Debug\Sinema_OturmaPlani.exe.config
+C:\Users\cspr\Desktop\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.exe
+C:\Users\cspr\Desktop\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.pdb
+C:\Users\cspr\Desktop\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\bin\Debug\Sinema_OturmaPlani.exe
+C:\Users\cspr\Desktop\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\bin\Debug\Sinema_OturmaPlani.pdb
+C:\Users\cspr\Desktop\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.csprojResolveAssemblyReference.cache
+C:\Users\cspr\Desktop\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.Form1.resources
+C:\Users\cspr\Desktop\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.Properties.Resources.resources
+C:\Users\cspr\Desktop\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.Rezervasyon_Ekrani.resources
+C:\Users\cspr\Desktop\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Part 3\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\bin\Debug\Sinema_OturmaPlani.exe.config
+C:\Users\LENOVO\Desktop\Part 3\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\bin\Debug\Sinema_OturmaPlani.exe
+C:\Users\LENOVO\Desktop\Part 3\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\bin\Debug\Sinema_OturmaPlani.pdb
+C:\Users\LENOVO\Desktop\Part 3\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Part 3\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.Form1.resources
+C:\Users\LENOVO\Desktop\Part 3\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Part 3\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.Rezervasyon_Ekrani.resources
+C:\Users\LENOVO\Desktop\Part 3\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Part 3\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.exe
+C:\Users\LENOVO\Desktop\Part 3\I GOT THE CODES\C#\Sinema_OturmaPlani\Sinema_OturmaPlani\obj\Debug\Sinema_OturmaPlani.pdb
